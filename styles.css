@@ -1,0 +1,10 @@
+.main {
+
+}
+
+.questions { 
+    border: 2px solid;
+    border-color: grey;
+    background-color: aqua;
+    font-size: large;
+}
